@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python byte-code and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local environment secrets
+.env
+.env.*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
